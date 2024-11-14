@@ -30,6 +30,9 @@
 
 > N/A
 
+## Anti-plagiarism disclaimer
+
+> Xpert learning assistant was used for some code, as denoted in comments above said code. I added this section just for good measure.
 
 
 ## Tests
