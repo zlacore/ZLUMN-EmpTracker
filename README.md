@@ -39,6 +39,8 @@
 
 > Running it and tweaking it and repeating
 
+## Walkthrough Video
+> https://youtu.be/Xry2dJHLu2s
 
 ## License 
 https://opensource.org/licenses/MIT
